@@ -6,7 +6,7 @@ function header() {
     <div>
       <AppBar position="static">
         <Toolbar>
-          <Typography variant="h5" >CURR-EX </Typography> 
+          <Typography variant="h5" >CURRENCY EXCHANGE </Typography> 
            
         </Toolbar>
       </AppBar>
